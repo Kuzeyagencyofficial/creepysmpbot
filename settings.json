@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KKOMMM.aternos.me:49176",
+    "ip": "KKOMMM.aternos.me",
     "port": 49176,
     "version": "",
     "try-creative": false
